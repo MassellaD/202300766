@@ -1,0 +1,12 @@
+Nombre: DanielEstuardoMassellaEguizabal
+Materia 1: 100.00
+Materia 2: 95.00
+Materia 3: 78.00
+Materia 4: 89.00
+Materia 5: 98.00
+Materia 6: 94.00
+Materia 7: 80.00
+Materia 8: 81.00
+Materia 9: 87.00
+Materia 10: 90.00
+
